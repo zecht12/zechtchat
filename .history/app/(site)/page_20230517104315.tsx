@@ -10,8 +10,8 @@ export default function Home() {
           <Image src="/assets/logo.png" alt="logo" width={100} height={100} className="rounded-full w-[80px] mx-auto h-[80px] cursor-pointer hover:scale-110 " />
         </Link>
         <h2 className="mt-6 text-center font-bold text-3xl tracking-tight text-gray-900">
-          SignIn to your account
-        </h2>
+            SignIn to your account
+          </h2>
       </div>
       <AuthForm/>
     </div> 
