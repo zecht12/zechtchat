@@ -5,7 +5,7 @@ import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
   title: 'ZechtChat',
-  description: 'Messenger Web',
+  description: 'Messenger ',
 }
 
 export default function RootLayout({

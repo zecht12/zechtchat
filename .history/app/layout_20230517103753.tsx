@@ -4,8 +4,8 @@ import ActiveStatus from './components/ActiveStatus'
 import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
-  title: 'ZechtChat',
-  description: 'Messenger Web',
+  title: 'Zecht',
+  description: 'Messenger Clone',
 }
 
 export default function RootLayout({
