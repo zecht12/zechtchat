@@ -1,4 +1,4 @@
-import getConversationById from "@/app/actions/getConvesationById";
+import getConversationById from "@/app/actions/getConversationByI";
 import getMessages from "@/app/actions/getMessages";
 import Header from "./components/Header";
 import Body from "./components/Body";
